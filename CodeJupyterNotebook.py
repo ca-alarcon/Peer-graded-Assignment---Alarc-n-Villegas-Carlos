@@ -2,7 +2,7 @@
 **Carlos Antonio Alarcón Villegas**
 <br>
 Desired occupation: Industrial Engineer.
-***I am interested in data science because it allows me to solve complex problems using a combination of statistical analysis and computer programming.***
+*I am interested in data science because it allows me to solve complex problems using a combination of statistical analysis and computer programming.*
 ### Code in Cell 5
 The code in Cell 5 will compute the sum of two numbers:
 def sum (a,b):
