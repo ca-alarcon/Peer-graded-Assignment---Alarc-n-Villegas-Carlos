@@ -16,3 +16,7 @@ Cell 5 (code cell): Your code, as described in Cell 4. It must be executed and m
 Cell 6 (rendered as Markdown): Using Markdown or HTML, this cell must include at least 3 of the following: horizontal rule, bulleted list, numbered list, tables, hyperlinks, images, code/syntax highlighting, blocked quotes, strikethrough.
 
 The Project is called "Final Project"
+
+Observation:
+Regarding cell 6, it includes: bulleted list, numbered list, tables.
+So that "at least 3 of the following" are met.
