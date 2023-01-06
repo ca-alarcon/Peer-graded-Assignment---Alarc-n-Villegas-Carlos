@@ -22,21 +22,26 @@ Horizontal rule:
 <br>
 ---
 <br>
-Bulleted list: 
+Horizontal rule:
+
+---
 <br>
-* Item A
-* Item B
+Bulleted list:
+
+* Item A 
+* Item B 
 * Item C
 <br>
+
 Numbered list:
-<br>
-1. Item A
-2. Item B
+1. Item A 
+2. Item B 
 3. Item C
 <br>
+
 Table:
-<br>
-| Encabezado 1 | Encabezado 2 |
-|--------------|--------------|
-| Celda 1      | Celda 2      |
-| Celda 3      | Celda 4      |
+
+| Encabezado 1 | Encabezado 2 | 
+|--------------|--------------| 
+| Celda 1 | Celda 2 | 
+| Celda 3 | Celda 4 |
