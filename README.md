@@ -1,6 +1,8 @@
-# Peer-graded-Assignment---Alarc-n-Villegas-Carlos
+# Peer-graded-Assignment---Alarcon-Villegas-Carlos
 Create and Share MyJupyter Notebook
+<br>
 Final Project:
+
 Cell 1 (rendered as Markdown): The title should be "My Jupyter Notebook on IBM Watson Studio", in H1 header styling. The title does not need to be centered.
 
 Cell 2 (rendered as Markdown): Include your name, in bold characters. In the line below your name, write your current or desired occupation in regular font.
